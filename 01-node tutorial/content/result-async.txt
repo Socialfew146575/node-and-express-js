@@ -1,0 +1,3 @@
+This is the result of writeFile(Async) method of the fs module.
+
+        Here is the result : Hello this is first text file. Hello this is second text file. 

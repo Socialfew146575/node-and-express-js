@@ -1,0 +1,2 @@
+This is the  result from the writeFilesync method of the fs module.
+ Here is the result :Hello this is first text file. Hello this is second text file.
