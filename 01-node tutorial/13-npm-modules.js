@@ -22,4 +22,6 @@ const newItems = _.flattenDeep(items);
 
 console.log(newItems);
 
+console.log("Hello World");
+
 

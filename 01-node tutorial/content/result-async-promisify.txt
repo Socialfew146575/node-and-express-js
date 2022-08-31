@@ -1,0 +1,1 @@
+This is the result of write File async which is made easier using promisify.
